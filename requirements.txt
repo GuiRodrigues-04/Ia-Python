@@ -1,0 +1,3 @@
+selenium
+msedge-selenium-tools
+webdriver-manager
